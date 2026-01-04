@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Runaway",
+  "base_artist": "AURORA",
+  "createdAt": "2026-01-04T13:02:53.791976Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Runaway",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/01_Runaway_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Runaway",
+      "artist": "陶喆",
+      "has_synced": false,
+      "path": "select/02_Runaway_陶喆.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Runaway",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/03_Runaway_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Runaway",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/04_Runaway_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Runaway (James Zabiela Red Eye Remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/05_Runaway_(James_Zabiela_Red_Eye_Remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Runaway (Live At London Astoria 16.07.08)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/06_Runaway_(Live_At_London_Astoria_16.07.08)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Runaway Love",
+      "artist": "Ludacris feat. Mary J. Blige",
+      "has_synced": true,
+      "path": "select/07_Runaway_Love_Ludacris_feat._Mary_J._Blige.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Runaway Love (feat. Mary J. Blige)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/08_Runaway_Love_(feat._Mary_J._Blige)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Runaway",
+      "artist": "Yeah Yeah Yeahs",
+      "has_synced": true,
+      "path": "select/09_Runaway_Yeah_Yeah_Yeahs.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Runaway",
+      "artist": "Lil Peep",
+      "has_synced": true,
+      "path": "select/10_Runaway_Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "NSX Runaway",
+      "artist": "MISOGI",
+      "has_synced": false,
+      "path": "select/11_NSX_Runaway_MISOGI.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Runaway",
+      "artist": "Nuyorican Soul",
+      "has_synced": false,
+      "path": "select/12_Runaway_Nuyorican_Soul.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Runaway Lover",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/13_Runaway_Lover_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Runaway Raindrop",
+      "artist": "Mercury Rev",
+      "has_synced": false,
+      "path": "select/14_Runaway_Raindrop_Mercury_Rev.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Runaway",
+      "artist": "The National",
+      "has_synced": true,
+      "path": "select/15_Runaway_The_National.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Runaway",
+      "artist": "AURORA",
+      "has_synced": false,
+      "path": "select/pl_01_Runaway_AURORA.txt"
+    }
+  ]
+}
